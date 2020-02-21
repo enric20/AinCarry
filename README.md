@@ -1,2 +1,0 @@
-# AinCarry
-Creación de videojuegos
